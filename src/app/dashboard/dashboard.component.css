@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+.inner{
+    background-color: #1589FF;
+    border-color: #1589FF;
+}
+
+.form-control{
+    margin-left: 50px;
+    border-color: #1589FF;
+}
+
+.b-example-vr {
+    width: 1.5rem;
+}
+
+.colorblue {
+    color: #1589FF;
+}
+.navbar{
+        border-bottom: solid;
+        border-color: #1589FF;
+}
